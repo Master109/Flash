@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cee4677800e46473c9186cd3a7411be8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - red: {instanceID: 0}
+  - majenta: {instanceID: 0}
+  - noCopy: {instanceID: 0}
+  - guiSkin: {instanceID: 0}
+  - guiSkin2: {instanceID: 0}
+  - shader: {fileID: 30, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
